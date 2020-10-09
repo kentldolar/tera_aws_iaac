@@ -39,3 +39,7 @@ https://www.decodingdevops.com/how-to-install-terraform-on-linux-servers/
 # Sources:
 
 https://qiita.com/gogo-muscle/items/7e3e4b3bf99366a665ee
+
+# use EVN
+
+https://stackoverflow.com/questions/53330060/can-terraform-use-bash-environment-variables
